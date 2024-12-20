@@ -16,11 +16,17 @@ Features a central 3D interactive model that serves as the focal point of the de
 With a brief intro, email ID, location, and technology fields serves as a personal hub for showcasing your identity and expertise while providing visitors with essential contact and professional details.
 
 ![image alt](https://github.com/SuranjanaB/3D-Portfolio/blob/main/screenshots/Screenshot%20(807).png?raw=true)
-
-
+![image alt](https://github.com/SuranjanaB/3D-Portfolio/blob/main/screenshots/Screenshot%20(809).png?raw=true)
 
 ### Projects
 Showcasing my projects and displaying them as interactive elements.
 
+![image alt](https://github.com/SuranjanaB/3D-Portfolio/blob/main/screenshots/Screenshot%20(812).png?raw=true)
+![image alt](https://github.com/SuranjanaB/3D-Portfolio/blob/main/screenshots/Screenshot%20(810).png?raw=true)
+![image alt](https://github.com/SuranjanaB/3D-Portfolio/blob/main/screenshots/Screenshot%20(817).png?raw=true)
+![image alt](https://github.com/SuranjanaB/3D-Portfolio/blob/main/screenshots/Screenshot%20(816).png?raw=true)
+
 ### Contact 
 Acts as a bridge for communication that enables visitors to send a message to my email.
+
+![image alt](https://github.com/SuranjanaB/3D-Portfolio/blob/main/screenshots/Screenshot%20(815).png?raw=true)
