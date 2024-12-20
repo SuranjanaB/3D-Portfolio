@@ -1,5 +1,5 @@
 # 3D Portfolio
-It is an innovative and visually engaging platform designed to showcase an one's skills, work, and creativity in a three-dimensional interactive space. Uses cutting-edge 3D technologies to create an immersive environment where users can explore my portfolio in a dynamic and interactive way. 
+It is an innovative and visually engaging platform designed to showcase one's skills, work, and creativity in a three-dimensional interactive space. Uses cutting-edge 3D technologies to create an immersive environment where users can explore my portfolio in a dynamic and interactive way. 
 
 ## Prototype Demo
 https://3d-portfolio-0bea4c.netlify.app
