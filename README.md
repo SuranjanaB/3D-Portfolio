@@ -1,21 +1,21 @@
-#3D Portfolio
+# 3D Portfolio
 It is an innovative and visually engaging platform designed to showcase an one's skills, work, and creativity in a three-dimensional interactive space. Uses cutting-edge 3D technologies to create an immersive environment where users can explore my portfolio in a dynamic and interactive way. 
 
-##Prototype Demo
+## Prototype Demo
 https://3d-portfolio-0bea4c.netlify.app
 
-##Powering Tools
+## Powering Tools
 ReactJs, React-three-fiber, GSAP, Leva, Vite, Tailwind CSS
 
-##Features
-###Home 
+## Features
+### Home 
 Features a central 3D interactive model that serves as the focal point of the design.
 
-###About
+### About
 With a brief intro, email ID, location, and technology fields serves as a personal hub for showcasing your identity and expertise while providing visitors with essential contact and professional details.
 
-###Projects
+### Projects
 Showcasing my projects and displaying them as interactive elements.
 
-###Contact 
+### Contact 
 Acts as a bridge for communication that enables visitors to send a message to my email.
